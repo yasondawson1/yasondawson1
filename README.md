@@ -4,6 +4,8 @@
 - 🥅 2022 Goals: Work as Data Scientist, Data Analyst, and Risk Analyst
 - ⚡ Fun Fact: I love watching anime one piece, playing game genshin impact, and reading biography book
 
+
+# Create Connection with me at:
 [![Gmail](https://img.shields.io/badge/Gmail-yason.dawson%40sci.ui.ac.id-orange)](mailto:yason.dawson@sci.ui.ac.id)
 [![Linkedin: yasondawsonimawan](https://img.shields.io/badge/-yasondawsonimawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/)](https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/)
 [![GitHub yasondawson](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://github.com/yasondawson1)
