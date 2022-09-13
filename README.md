@@ -6,9 +6,9 @@
 
 ### Connect with me:
 [![Rpubs](icons/rpubs.png)](https://rpubs.com/yasondawson)
+[![Tableau](icons/tableau.png)](https://public.tableau.com/app/profile/yason.dawson.imawan)
 [![GitHub](icons/github.png)](https://github.com/yasondawson1)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/)
-[![Tableau](icons/tableau.png)](https://public.tableau.com/app/profile/yason.dawson.imawan)
 
 ### Languages and Tools:
 
