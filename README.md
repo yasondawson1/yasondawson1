@@ -8,7 +8,7 @@
 
 [![gmail](https://img.shields.io/badge/Gmail-yason.dawson%40sci.ui.ac.id-red)](mailto:yason.dawson@sci.ui.ac.id)
 [![Linkedin: yasondawsonimawan](https://img.shields.io/badge/-yasondawsonimawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/)
-[![GitHub yasondawson1](https://img.shields.io/github/yasondawson1?label=follow&style=social)](https://github.com/yasondawson1)
+[![GitHub yasondawson1](https://img.shields.io/github/followers/yasondawson1?label=follow&style=social)](https://github.com/yasondawson1)
 
 ### Languages and Tools:
 
