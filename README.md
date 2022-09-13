@@ -6,8 +6,8 @@
 
 ### Connect with me:
 
-[![gmail](https://img.shields.io/badge/Gmail-yason.dawson%40sci.ui.ac.id.-red)](mailto:yason.dawson@sci.ui.ac.id)
-[![Linkedin: yasondawsonimawan](https://img.shields.io/badge/-elvanselvano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)]([https://www.linkedin.com/in/elvanselvano/](https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/))
+[![gmail](https://img.shields.io/badge/Gmail-yason.dawson%40sci.ui.ac.id-red)](mailto:yason.dawson@sci.ui.ac.id)
+[![Linkedin: yasondawsonimawan](https://img.shields.io/badge/-yasondawsonimawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)]([https://www.linkedin.com/in/yasondawsonimawankarokaro/](https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/))
 [![GitHub elvanselvano](https://img.shields.io/github/followers/elvanselvano?label=follow&style=social)](https://github.com/elvanselvano)
 
 ### Languages and Tools:
