@@ -11,8 +11,7 @@
 [![Rpubs](https://github.com/yasondawson1/yasondawson1/blob/main/icons/rpubs.png)](https://rpubs.com/yasondawson)
 
 # 🛠 Languages and Tools
-
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
+[![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)](https://www.gnu.org/software/bash/ "Scripting")
 [![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg)](https://www.gnu.org/software/bash/ "Scripting")
 [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/ "Version control")
 [![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://github.com/ "Git Repositories")
