@@ -8,9 +8,12 @@
 
 [![gmail](https://img.shields.io/badge/Gmail-yason.dawson%40sci.ui.ac.id-red)](mailto:yason.dawson@sci.ui.ac.id)
 [![Linkedin: yasondawsonimawan](https://img.shields.io/badge/-yasondawsonimawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/)
-[![](https://img.shields.io/github/-@yasondawson1-%23181717?style=flat-square&logo=github)](https://github.com/yasondawson1)
+[![GitHub yasondawson1](https://img.shields.io/github/-@yasondawson1-%23181717?style=flat-square&logo=github)](https://github.com/yasondawson1)
 
-
+[![](https://img.shields.io/badge/-@yasondawson1-%23181717?style=flat-square&logo=github)](https://github.com/yasondawson1)
+[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codepen)](https://codepen.io/xiaoluoboding)
+[![](https://img.shields.io/badge/-@xiaoluoboding-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/xiaoluoboding)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
