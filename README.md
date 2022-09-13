@@ -5,10 +5,11 @@
 - ⚡ Fun Fact: I love watching anime one piece, playing game genshin impact, and reading biography book
 
 ### Create connection with me
-[![Rpubs](icons/rpubs.png)](https://rpubs.com/yasondawson)
-[![Tableau](icons/tableau.png)](https://public.tableau.com/app/profile/yason.dawson.imawan)
+[![Gmail](https://img.shields.io/badge/Gmail-yason.dawson%40sci.ui.ac.id-blue)](mailto:yason.dawson@sci.ui.ac.id)
+[![Linkedin: yasondawsonimawan](https://img.shields.io/badge/-elvanselvano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/)](https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/)
 [![GitHub](icons/github.png)](https://github.com/yasondawson1)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/)
+[![Tableau](icons/tableau.png)](https://public.tableau.com/app/profile/yason.dawson.imawan)
+[![Rpubs](icons/rpubs.png)](https://rpubs.com/yasondawson)
 
 <h3> 🛠 &nbsp;Languages and Tools</h3><br/>
 
