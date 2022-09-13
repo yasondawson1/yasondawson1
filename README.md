@@ -10,6 +10,7 @@
 # 🛠 Languages and Tools
 [![Tableau](https://github.com/yasondawson1/yasondawson1/blob/main/icons/tableau.png)](https://public.tableau.com/app/profile/yason.dawson.imawan)
 [![R](https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg)](https://rpubs.com/yasondawson)
+[![PowerBI](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg)](https://powerbi.microsoft.com/en-au/)
 [![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/ "data load script")
 [![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)](https://www.mysql.com/)
 [![VisCod](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)](https://code.visualstudio.com/download)
