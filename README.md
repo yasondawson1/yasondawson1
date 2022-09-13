@@ -10,19 +10,12 @@
 [![Tableau](https://github.com/yasondawson1/yasondawson1/blob/main/icons/tableau.png)](https://public.tableau.com/app/profile/yason.dawson.imawan)
 [![Rpubs](https://github.com/yasondawson1/yasondawson1/blob/main/icons/rpubs.png)](https://rpubs.com/yasondawson)
 
-<h3> 🛠 &nbsp;Languages and Tools</h3><br/>
+# 🛠 Languages and Tools
 
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.tableau.com" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a>
-  <a href="https://rpubs.com" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/r-project/r-project-ar21.svg" alt="rproject" width="40" height="40"/> </a>
-
-
-
-</p>
-
-<br />
-<br />
-
---
-<br />
+[![Python](https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-ar21.svg)](https://www.python.org)
+[![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg)](https://www.gnu.org/software/bash/ "Scripting")
+[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/ "Version control")
+[![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://github.com/ "Git Repositories")
+[![Gitlab](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)](https://about.gitlab.com/ "Git Repositories")
+[![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/ "data load script")
+[![YAML](https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg)](http://yaml.org/ "list storage")
