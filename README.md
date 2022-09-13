@@ -25,8 +25,8 @@
 ---
 <br />
 <a href="https://github.com/yasondawson1">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=yasondawson1&theme=buefy&show_icons=true" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasondawson1&theme=buefy&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yasondawson1&theme=buefy&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasondawson1&theme=buefy&layout=compact" />
 </a>
 
 <br/>
