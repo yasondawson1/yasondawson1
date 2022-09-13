@@ -7,7 +7,7 @@
 #[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?#label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?#itemName=codestackr.codestackr-theme)
 #[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
-- ![image](https://user-images.githubusercontent.com/61504388/189829999-216d72b5-8b69-4936-adf1-2a335c0a4347.png) ![Uploading image.png…]()Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 👨‍🎓 I'm graduate mathematics student at [University of Indonesia](https://math.ui.ac.id/en/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
