@@ -1,6 +1,6 @@
 # 👋  Hi there, I am Yason 
-- 👨‍🎓 I'm Graduate Mathematics Student at [University of Indonesia](https://math.ui.ac.id/en/)
-- 👨‍🔬 I’m Data Scientist and Machine Learning Student at [Purwadhika Digital Technology School](https://purwadhika.com/)
+- 👨‍🎓 Graduate Mathematics Student at [University of Indonesia](https://math.ui.ac.id/en/)
+- 👨‍🔬 Data Scientist and Machine Learning Student at [Purwadhika Digital Technology School](https://purwadhika.com/)
 - 🥅 2022 Goals: Work as Data Scientist, Data Analyst, and Risk Analyst
 - ⚡ Fun Fact: I love watching anime one piece, playing game genshin impact, and reading biography book
 
