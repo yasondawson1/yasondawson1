@@ -13,6 +13,8 @@
 # 🛠 Languages and Tools
 [![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)](https://www.gnu.org/software/bash/ "Scripting")
 [![Tableau](https://github.com/yasondawson1/yasondawson1/blob/main/icons/tableau.png)](https://public.tableau.com/app/discover)
+[![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)](https://www.mysql.com/)
+[![VisCod](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg)](https://code.visualstudio.com/download)
 [![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg)](https://www.gnu.org/software/bash/ "Scripting")
 [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/ "Version control")
 [![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://github.com/ "Git Repositories")
