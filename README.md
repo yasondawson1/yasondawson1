@@ -14,8 +14,8 @@
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  
+  <a href="https://www.tableau.com" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a>
+  <a href="https://www.tableau.com" target="_blank"> <img src="https://github.com/gilbarbara/logos/blob/master/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a>
 
 
 
