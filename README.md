@@ -6,7 +6,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-yason.dawson%40sci.ui.ac.id-orange)](mailto:yason.dawson@sci.ui.ac.id)
 [![Linkedin: yasondawsonimawan](https://img.shields.io/badge/-yasondawsonimawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/)](https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/)
-[![GitHub](https://www.vectorlogo.zone/util/preview.html?image=/logos/github/github-ar21.svg)](https://github.com/yasondawson1)
+[![GitHub]](<a href="https://github.com/yasondawson1" target="_blank"> <img src="https://github.com/yasondawson1" alt="python" width="40" height="40"/>)
 [![Tableau](https://github.com/detain/svg-logos/blob/master/svg/tableau-logo.svg)](https://public.tableau.com/app/profile/yason.dawson.imawan)
 [![Rpubs]([icons/rpubs.png](https://www.vectorlogo.zone/util/preview.html?image=/logos/r-project/r-project-icon.svg))](https://rpubs.com/yasondawson)
 
