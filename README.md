@@ -8,7 +8,7 @@
 [![Linkedin: yasondawsonimawan](https://img.shields.io/badge/-yasondawsonimawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/)](https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/)
 [![GitHub yasondawson](https://github.com/yasondawson1/yasondawson1/blob/main/icons/github.png)](https://github.com/yasondawson1)
 [![Tableau](https://github.com/yasondawson1/yasondawson1/blob/main/icons/tableau.png)](https://public.tableau.com/app/profile/yason.dawson.imawan)
-[![Rpubs]([icons/rpubs.png](https://www.vectorlogo.zone/util/preview.html?image=/logos/r-project/r-project-icon.svg))](https://rpubs.com/yasondawson)
+[![Rpubs](https://github.com/yasondawson1/yasondawson1/blob/main/icons/rlogo.jfif)](https://rpubs.com/yasondawson)
 
 <h3> 🛠 &nbsp;Languages and Tools</h3><br/>
 
