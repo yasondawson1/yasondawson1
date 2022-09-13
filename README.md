@@ -4,11 +4,23 @@
 - 🥅 2022 Goals: Work as Data Scientist, Data Analyst, and Risk Analyst
 - ⚡ Fun Fact: I love watching anime one piece, playing game genshin impact, and reading biography book
 
-[![Gmail](https://img.shields.io/badge/Gmail-yason.dawson%40sci.ui.ac.id-orange)](mailto:yason.dawson@sci.ui.ac.id)
-[![Linkedin: yasondawsonimawan](https://img.shields.io/badge/-yasondawsonimawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/)](https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/)
-[![GitHub yasondawson](https://github.com/get-icon/geticon/blob/master/icons/github.svg)](https://github.com/yasondawson1)
-[![Tableau](https://github.com/get-icon/geticon/blob/master/icons/tableau-icon.svg)](https://public.tableau.com/app/profile/yason.dawson.imawan)
-[![Rpubs](https://github.com/yasondawson1/yasondawson1/blob/main/icons/rpubs.png)](https://rpubs.com/yasondawson)
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+
 
 <h3> 🛠 &nbsp;Languages and Tools</h3><br/>
 
@@ -24,3 +36,18 @@
 </a>
 
 <br/>
+
+
+
+</details>
+
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
