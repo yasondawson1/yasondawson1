@@ -12,7 +12,7 @@
 [![R](https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg)](https://rpubs.com/yasondawson)
 [![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/ "data load script")
 [![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)](https://www.mysql.com/)
-[![VisCod](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg)](https://code.visualstudio.com/download)
+[![VisCod](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)](https://code.visualstudio.com/download)
 [![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)](https://aws.amazon.com/id/)
 [![TF](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg)](https://aws.amazon.com/id/)
 [![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)](https://aws.amazon.com/id/)
