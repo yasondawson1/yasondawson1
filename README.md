@@ -12,7 +12,7 @@
 
 # 🛠 Languages and Tools
 
-[![Python](https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-ar21.svg)](https://www.python.org)
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
 [![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg)](https://www.gnu.org/software/bash/ "Scripting")
 [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/ "Version control")
 [![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://github.com/ "Git Repositories")
