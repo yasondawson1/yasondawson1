@@ -15,7 +15,6 @@
 [![VisCod](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg)](https://code.visualstudio.com/download)
 [![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)](https://aws.amazon.com/id/)
 [![TF](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg)](https://aws.amazon.com/id/)
-[![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)](https://aws.amazon.com/id/)
 [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/ "Version control")
 [![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://github.com/ "Git Repositories")
 [![SAP](https://www.vectorlogo.zone/logos/sap/sap-ar21.svg)](https://www.sap.com/sea/index.html)
