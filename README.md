@@ -15,8 +15,8 @@
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.tableau.com" target="_blank"> <img src="https://github.com/yasondawson1/yasondawson1/blob/main/icons/tableau1.png" alt="tableau" width="60" height="40"/> </a>
-  <a href="https://rpubs.com/" target="_blank"> <img src="https://github.com/yasondawson1/yasondawson1/blob/main/icons/rpubs.png" alt="rpubs" width="60" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/yasondawson1/yasondawson1/blob/main/icons/visual%20code.jfif" alt="visual code" width="60" height="40"/> </a>
+  <a href="https://rpubs.com/" target="_blank"> <img src="https://github.com/yasondawson1/yasondawson1/blob/main/icons/rpubs.png" alt="rpubs" width="70" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/yasondawson1/yasondawson1/blob/main/icons/visual%20code.jfif" alt="visual code" width="50" height="40"/> </a>
   
 </p>
 <br/>
