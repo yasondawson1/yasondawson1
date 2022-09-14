@@ -19,9 +19,7 @@
 [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/ "Version control")
 [![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://github.com/ "Git Repositories")
 [![SAP](https://www.vectorlogo.zone/logos/sap/sap-ar21.svg)](https://www.sap.com/sea/index.html)
-<br />
----
-<br />
+
 # 👨‍💻 My ongoing project always be published in:
 [![Tableau](https://github.com/yasondawson1/yasondawson1/blob/main/icons/tableau.png)](https://public.tableau.com/app/profile/yason.dawson.imawan)
 [![R](https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg)](https://rpubs.com/yasondawson)
