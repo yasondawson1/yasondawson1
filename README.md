@@ -8,8 +8,8 @@
 [![Linkedin: yasondawsonimawan](https://img.shields.io/badge/-yasondawsonimawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/)](https://www.linkedin.com/in/yason-dawson-imawan-karo-karo-670982135/)
 
 # 🛠 Languages and Tools
-[![Tableau](https://github.com/yasondawson1/yasondawson1/blob/main/icons/tableau.png)](https://public.tableau.com/app/profile/yason.dawson.imawan)
-[![R](https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg)](https://rpubs.com/yasondawson)
+[![Tableau](https://github.com/yasondawson1/yasondawson1/blob/main/icons/tableau.png)](https://public.tableau.com/app/discover)
+[![R](https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg)](https://rpubs.com/)
 [![PowerBI](https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg)](https://powerbi.microsoft.com/en-au/)
 [![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/ "data load script")
 [![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg)](https://www.mysql.com/)
@@ -19,6 +19,14 @@
 [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/ "Version control")
 [![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://github.com/ "Git Repositories")
 [![SAP](https://www.vectorlogo.zone/logos/sap/sap-ar21.svg)](https://www.sap.com/sea/index.html)
+<br />
+---
+<br />
+# 👨‍💻 My ongoing project always be published in:
+[![Tableau](https://github.com/yasondawson1/yasondawson1/blob/main/icons/tableau.png)](https://public.tableau.com/app/profile/yason.dawson.imawan)
+[![R](https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg)](https://rpubs.com/yasondawson)
+[![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://github.com/yasondawson1)
+[![Medium](https://www.vectorlogo.zone/logos/medium/medium-ar21.svg)](https://medium.com/@yason.dawson_8732)
 <br />
 ---
 <br />
